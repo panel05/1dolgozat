@@ -1,0 +1,33 @@
+body{
+    background-color: beige;
+}
+main{
+    max-width: 1500px;
+    margin:auto;
+    
+}
+
+.fotarol{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.konvtarol{
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+}
+
+
+@media (max-width: 800px) {
+    .fotarol {
+      flex-direction: column;
+    }
+.konvtarol{
+    font-size: medium;
+}
+
+  }

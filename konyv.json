@@ -1,0 +1,19 @@
+{
+    "konyv":[
+        {
+            "id":1,
+            "cim":"Hobbit",
+            "szerzo":"Molnár Ferenc"
+        },
+        {
+            "id":2,
+            "cim":"Pál utcai fiúk",
+            "szerzo":"Gipsz Jakab"
+        },
+        {
+            "id":3,
+            "cim":"A programozás rejtelmei",
+            "szerzo":"Paál Ádám"
+        }
+    ]
+}
